@@ -115,7 +115,7 @@ h1, h2, h3, h4 {
   .about-content {
     display: flex;
     align-items: flex-start;
-    gap: 260px;
+    gap: 176px;
     flex-wrap: wrap;
     margin-top: 200px ;
   }
@@ -138,7 +138,7 @@ h1, h2, h3, h4 {
   }
   
   .about-photo img {
-    width: 175%;
+    width: 156%;
     border-radius: 10px;
     object-fit: cover;  
   }
